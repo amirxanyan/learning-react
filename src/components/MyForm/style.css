@@ -1,0 +1,40 @@
+.registrator {
+    background-color:rgb(179, 201, 201);
+    width: 350px;
+    height: 372px;
+     margin-left: 64px;
+    border-radius: 10px; 
+}
+
+.input {
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: azure;
+    width: 300px;
+}
+
+.username {
+    margin-right: 57px;
+}
+
+.mail {
+    margin-right: 90px;
+}
+
+.pass {
+    margin-right: 60px;
+}
+
+#pass {
+    margin-top: 30px;
+}
+
+.butt {
+    margin-left: 128px;
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+}
